@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'm [Patrick Lucey]! 👋
 
-<!--
-**patlucey/patlucey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+I'm currently a senior  at [Denison University], pursuing a degree in [Data Analytics with a concentration in Economics]. I'm passionate about [Economics, Ecology,and Finance], and I'm always eager to learn more about [technology, software development, data science].
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Programming Languages: [R Stuido and Python]
+- Tools & Technologies: [Git, Machine Learning, TensorFlow, Pandas, Tidyverse]
+- Databases: [MySQL]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 I’m currently learning
+- [A technology or skill you're currently learning]
+- [Another technology or skill]
+
+## 💼 Work Experience
+- [Student Ambassador and Data Analyst], [Denison University Office of the Annual Fund] - [Had to help organize spreadsheets, build models, generate insights based upon the models being built]
+
+## 📫 How to reach me:
+- Email: [lucey_p1@denison.edu]
+- LinkedIn: [www.linkedin.com/in/patrick-lucey-2a8860217]

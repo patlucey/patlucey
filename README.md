@@ -9,9 +9,8 @@ I'm currently a senior  at [Denison University], pursuing a degree in [Data Anal
 - Databases: [MySQL]
 
 ## 📚 I’m currently learning
-- [A technology or skill you're currently learning]
-- [Another technology or skill]
-
+- How to better use and understand SQL and other database languages by doing independent projects to better my craft
+- How to use Power BI for data analysis 
 ## 💼 Work Experience
 - [Student Ambassador and Data Analyst], [Denison University Office of the Annual Fund] - [Had to help organize spreadsheets, build models, generate insights based upon the models being built]
 

@@ -1,19 +1,26 @@
-# Hi there, I'm [Patrick Lucey]! 👋
+# Hi there, I'm Patrick Lucey! 👋
 
 ## 🎓 About Me
-I'm currently a senior  at [Denison University], pursuing a degree in [Data Analytics with a concentration in Economics]. I'm passionate about [Economics, Ecology,and Finance], and I'm always eager to learn more about [technology, software development, data science].
+I'm a recent graduate of Denison University with a B.A. in Data Analytics. I'm passionate about leveraging data to derive actionable insights and support informed decision-making. My interests span across Economics, Ecology, and Finance, and I'm always eager to expand my knowledge in technology, software development, and data science.
 
 ## 🛠 Skills
-- Programming Languages: [R Stuido and Python]
-- Tools & Technologies: [Git, Machine Learning, TensorFlow, Pandas, Tidyverse]
-- Databases: [MySQL]
+- Programming Languages: Python, R
+- Tools & Technologies: SQL, Polars, Pandas, Tidyverse, Scikit-Learn, ggplot, Excel, PowerPoint, Google Sheets, Google Slides
+- Analytical Skills: Statistical Analysis, A/B Testing, Data Mining, Machine Learning, Report Building, Analytic Translation
 
-## 📚 I’m currently learning
-- How to better use and understand SQL and other database languages by doing independent projects to better my craft
-- How to use Power BI for data analysis 
+## 📚 I'm currently learning
+- Advanced SQL techniques and database management through independent projects
+- Power BI for enhanced data visualization and analysis
+
 ## 💼 Work Experience
-- [Student Ambassador and Data Analyst], [Denison University Office of the Annual Fund] - [Had to help organize spreadsheets, build models, generate insights based upon the models being built]
+- Data Analyst Intern, Classical Charter Schools, New York, NY (July 2024 - Present)
+- Data Analyst Intern, Denison University Office of the Annual Fund, Granville, OH (May 2023 - Aug. 2023)
+
+## 🚀 Projects
+- Investigating the Impact of Urbanization on Bird Migration Patterns
+  - Analyzed spatial data using R to identify urbanization-driven shifts in migration patterns
+  - Developed statistical models to quantify environmental impacts on wildlife
 
 ## 📫 How to reach me:
-- Email: [lucey_p1@denison.edu]
-- LinkedIn: [www.linkedin.com/in/patrick-lucey-2a8860217]
+- Email: patolucey@gmail.com
+- LinkedIn: www.linkedin.com/in/patricklucey203

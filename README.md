@@ -10,7 +10,8 @@ I'm a recent graduate of Denison University with a B.A. in Data Analytics. I'm p
 
 ## 📚 I'm currently learning
 - Advanced SQL techniques and database management through independent projects
-- Power BI for enhanced data visualization and analysis
+- Learning how to use polars for data manipulation
+- How to query and aggregate big data by using the publically available Citibike dataset
 
 ## 💼 Work Experience
 - Data Analyst Intern, Classical Charter Schools, New York, NY (July 2024 - Present)
@@ -20,6 +21,9 @@ I'm a recent graduate of Denison University with a B.A. in Data Analytics. I'm p
 - Investigating the Impact of Urbanization on Bird Migration Patterns
   - Analyzed spatial data using R to identify urbanization-driven shifts in migration patterns
   - Developed statistical models to quantify environmental impacts on wildlife
+- Exploring the relationship between temperature and trip duration with Citibike data
+  - Wrote code that queried and aggregated big data
+  - Created a spline regression model that examines the relationship between trip duration in regards to temperature and time of day. 
 
 ## 📫 How to reach me:
 - Email: patolucey@gmail.com

@@ -23,7 +23,7 @@ I'm a recent graduate of Denison University with a B.A. in Data Analytics. I'm p
   - Developed statistical models to quantify environmental impacts on wildlife
 - Exploring the relationship between temperature and trip duration with Citibike data
   - Wrote code that queried and aggregated big data
-  - Created a spline regression model that examines the relationship between trip duration in regards to temperature and time of day. 
+  - Created a spline regression model that examines the relationship between trip duration in regards to temperature and time of day 
 
 ## 📫 How to reach me:
 - Email: patolucey@gmail.com
